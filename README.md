@@ -9,7 +9,7 @@
 ## License
 (c) Anurag kumawat
 
-Licensed under the [MIT License](https://github.com/anuragk16/Clock/blob/main/LICENSE.txt)
+Licensed under the [MIT License](https://github.com/anuragk16/Clock/blob/main/LICENSE)
 
 
 

@@ -15,10 +15,13 @@ Licensed under the [MIT License](https://github.com/anuragk16/Clock/blob/main/LI
 
 ## 🔗 Links :-
 
+
+Clock executable file download link:
+[Clock_App](https://www.mediafire.com/file/czxfahgdy4d69wf/Clock2.zip/file)
+
 [Coding_Clock](https://www.youtube.com/watch?v=005Er9KEesE&list=PLZ9U7l5j8AZYyfB84IMZf3QwS2hwxyyYx&index=5)
 
 [Youtube_channel](https://www.youtube.com/channel/UCKO4nOXb1ZpmuR8br5fJWBQ)
-
 
 [quora](https://www.quora.com/profile/Anurag-Kumawat-37)
 
